@@ -1,4 +1,4 @@
-package ch03;
+package ch03.Abstract_Class;
 
 public class Milk extends CondimentDecorator {
     public Milk(Beverage beverage) {

@@ -1,4 +1,4 @@
-package ch03;
+package ch03.Abstract_Class;
 
 public abstract class Beverage {
     String description = "제목 없음";
