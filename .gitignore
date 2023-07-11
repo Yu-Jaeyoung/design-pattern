@@ -1,5 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/Macos,Intellij,Java
 # Edit at https://www.toptal.com/developers/gitignore?templates=Macos,Intellij,Java
+node_modules
+package-lock.json
 .idea
 *.iml
 
